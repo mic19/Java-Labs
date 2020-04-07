@@ -1,0 +1,10 @@
+2
+A
+B
+A
+2
+A AB
+B A
+7
+java
+
