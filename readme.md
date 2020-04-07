@@ -12,7 +12,7 @@
 9. Algorytm potłuczonego szkła 
 	- plik *data.txt* - przykładowe wejście (definicja pliku *.bmp*)
 	- wygenerowany plik:
-		<img src="/lab09/1.ppm" border="0" />
+		<img src="/lab09/example.png" border="0" />
 10. Serializacja. Konsolowa gra w kółko i krzyżyk z możliwością zapisu/odtworzenia stanu gry. 
 11. Implementacja stosu 
 12. Słownik z serializacją 
